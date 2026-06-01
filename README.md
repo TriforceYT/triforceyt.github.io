@@ -697,7 +697,7 @@
     <div class="legal-section reveal">
       <div class="legal-title">Legal</div>
       <div class="legal-cards">
-        <a class="legal-card" href="privacy-policy.html">
+        <a class="legal-card" href="privacy-policy">
           <div class="legal-card-icon">🔒</div>
           <div class="legal-card-title">Política de Privacidad</div>
           <div class="legal-card-desc">Cómo recopilamos, usamos y protegemos tu información personal.</div>
